@@ -3,8 +3,8 @@
 
 
 # development
-PYTHONPATH=projectname
-DJANGO_SETTINGS_MODULE=genericsettings
+export PYTHONPATH=iwbc_app
+export DJANGO_SETTINGS_MODULE=iwbc_app.settings.dev
 #production
 DJANGO_SECRET_KEY=secretkey
 
