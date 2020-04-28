@@ -6,7 +6,7 @@ OVERVIEW
 I would like to create a website to direct applicants to apply to the camp. All of the info would be then displayed in a variety of ways to make planning easier for the administrators.  
 
 GOALS
-  - Provide an informative about page (already done with the church page)https://kvmcs.org/idaho-wilderness-boys-camp
+  - Provide an informative about page (already done with the church page) https://kvmcs.org/idaho-wilderness-boys-camp
   - Provide an application page that boys could apply to camp
   - Have an admin dashboard where data can be viewed and actions can be done
   - Send out acceptance emails based on who is accepted
